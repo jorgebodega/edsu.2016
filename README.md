@@ -6,6 +6,6 @@ __La cuestión es:__ Creo firmemente en la libertad de la información, y más s
 
 Pues eso, úsalo a conciencia, entiende lo que está escrito, y úsalo para desarrollar tu propio código.
 
-Si ves que no entiendes algo, suelo entrar por GitHub muy a menudo, escríbeme.
+Si ves que no entiendes algo, en mi perfil de GitHub está mi correo, sientete libre de usarlo. No SPAM, please.
 
 Un saludo, y buen código!
